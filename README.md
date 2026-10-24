@@ -21,9 +21,4 @@ No frameworks and no JavaScript.
 - `index.html` - the page
 - `style.css` - the styling and the character
 
-## Live site
-
-https://ghania12900-ctrl.github.io/passion-boba/
-
-Made for Boba Bash Islamabad.
 
